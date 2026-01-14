@@ -26,6 +26,7 @@ disease_detection/
 │   └── config.py            # Path configurations
 ├── requirements.txt         # Python dependencies
 └── README.md                # Documentation
+```
 
 ### 🛡️ License & Disclaimer
 This project is for educational and research purposes only. It is not a certified medical device and should not be used for clinical diagnosis.

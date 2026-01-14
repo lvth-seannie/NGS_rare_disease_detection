@@ -29,4 +29,4 @@ disease_detection/
 ```
 
 ### 🛡️ License & Disclaimer
-This project is for educational and research purposes only. It is not a certified medical device and should not be used for clinical diagnosis.
+This project is for educational and research purposes only. It is not a certified medical assitance and should not be used for clinical diagnosis.

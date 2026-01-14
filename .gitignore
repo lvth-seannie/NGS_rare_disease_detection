@@ -1,0 +1,10 @@
+data/references/
+data/knowledge_base/data/
+*.vcf.gz
+*.tbi
+src/__pycache__/
+src/agents/__pycache__/
+src/tools/__pycache__/
+src/utils/__pycache__/
+.DS_Store
+.venv/

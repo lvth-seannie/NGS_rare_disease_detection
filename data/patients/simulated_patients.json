@@ -1,0 +1,75 @@
+{
+    "patient_long_qt": {
+        "id": "POO1",
+        "name": "Simulated Patient A (Cardiac)",
+        "description": "History of fainting during exercise.",
+        "variants": [
+            {
+                "chrom": "21",
+                "pos": 34449409,
+                "ref": "C",
+                "alt": "T",
+                "significance": "Pathogenic",
+                "gene": "KCNE1",
+                "condition": "Long QT Syndrome"
+            }
+        ]
+    },
+    "patient_cf": {
+        "id": "POO2",
+        "name": "Simulated Patient B (Respiratory)",
+        "description": "Newborn screening positive, persistent cough.",
+        "variants": [
+            {
+                "chrom": "7",
+                "pos": 117199644,
+                "ref": "ATCT",
+                "alt": "A",
+                "significance": "Pathogenic",
+                "gene": "CFTR",
+                "condition": "Cystic Fibrosis"
+            }
+        ]
+    },
+    "patient_gaucher": {
+        "id": "POO3",
+        "name": "Simulated Patient C (Metabolic)",
+        "description": "Enlarged spleenn, low platelet count.",
+        "variants": [
+            {
+                "chrom": "1",
+                "pos": 155205634,
+                "ref": "A",
+                "alt": "G",
+                "significance": "Pathogenic",
+                "gene": "GBA",
+                "condition": "Gaucher Disease"
+            }
+        ]
+    },
+    "patient_complex": {
+        "id": "P004",
+        "name": "Simulated Patient D (Multi-System)",
+        "description": "Patient with incidental findings in multiple systems.",
+        "variants": [
+            {
+                "chrom": "13", 
+                "pos": 32339230,
+                "ref": "C",
+                "alt": "T",
+                "significance": "Pathogenic",
+                "gene": "BRCA2",
+                "condition": "Hereditary Cancer"
+            },
+            {
+                "chrom": "21", 
+                "pos": 34449409,
+                "ref": "C",
+                "alt": "T",
+                "significance": "Pathogenic",
+                "gene": "KCNE1",
+                "condition": "Long QT Syndrome"
+            }
+        ]
+    }
+}

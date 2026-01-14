@@ -8,3 +8,4 @@ src/tools/__pycache__/
 src/utils/__pycache__/
 .DS_Store
 .venv/
+*.zip

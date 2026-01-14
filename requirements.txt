@@ -1,0 +1,10 @@
+streamlit
+pandas
+pysam
+langchain-ollama
+langchain-huggingface
+langchain-community
+chromadb
+pypdf
+pillow
+watchfiles
